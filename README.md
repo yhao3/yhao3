@@ -17,7 +17,6 @@ I’m a Back-end developer.
 <br />
 ![Hao's github stats](https://github-readme-stats.vercel.app/api?username=yhao3&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Hao's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yhao3&layout=compact&langs_count=8&hide_border=true)
-
 <br />
 
 ### Tech Stack
