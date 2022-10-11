@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Hao](https://www.linkedin.com/in/%E5%B0%9A%E8%B1%AA-%E6%A5%8A-060136211/)!
+### Hi there 👋, I'm [Hao](https://www.linkedin.com/in/%E5%B0%9A%E8%B1%AA-%E6%A5%8A-060136211/)!
 
 <a href="https://www.linkedin.com/in/%E5%B0%9A%E8%B1%AA-%E6%A5%8A-060136211/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
@@ -13,11 +13,13 @@
 <br />
 
 ### About Me
-I’m a Back-end developer.
-<br />
-![Hao's github stats](https://github-readme-stats.vercel.app/api?username=yhao3&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Hao's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yhao3&layout=compact&langs_count=8&hide_border=true)
-<br />
+I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everything around microservices architecture `🐋 Docker` and automation.
+<p align="left">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhao3&show_icons=true&include_all_commits=true&custom_title=Hao's%20GitHub%20Stats" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhao3&layout=compact&langs_count=8" align = "center"/>
+
+</p>
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/-Java-grey?style=flat&logo=openjdk)&nbsp;
