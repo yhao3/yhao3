@@ -16,8 +16,8 @@
 I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everything around microservices architecture `🐋 Docker` and automation.
 <p align="left">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhao3&show_icons=true&include_all_commits=true&custom_title=Hao's%20GitHub%20Stats" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhao3&layout=compact&langs_count=8" align = "center"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yhao3&show_icons=true&include_all_commits=true&custom_title=Hao's%20GitHub%20Stats" align = "center"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhao3&layout=compact&langs_count=8" align = "center"/>
 
 </p>
 
