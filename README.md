@@ -30,5 +30,11 @@ I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everythi
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)&nbsp;</a>
 <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker)&nbsp;</a>
 
+### My Autobiography
+
+- [中文版](https://github.com/yhao3/autobiography/blob/main/chinese/autobiography.md)
+- [English](https://github.com/yhao3/autobiography/blob/main/english/autobiography.md)
+
+---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yhao3.yhao3)
