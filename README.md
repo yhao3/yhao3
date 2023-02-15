@@ -29,7 +29,6 @@ I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everythi
 <a href="https://www.microsoft.com/zh-tw/sql-server/sql-server-2019">![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?style=flat&logo=microsoftsqlserver)&nbsp;</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)&nbsp;</a>
 <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker)&nbsp;</a>
-<a href="https://graphql.org/">![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=flat&logo=graphql)&nbsp;</a>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yhao3.yhao3)
