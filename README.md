@@ -1,19 +1,8 @@
-### Hi there 👋, I'm [Hao](https://www.linkedin.com/in/%E5%B0%9A%E8%B1%AA-%E6%A5%8A-060136211/)!
-
-<a href="https://www.linkedin.com/in/%E5%B0%9A%E8%B1%AA-%E6%A5%8A-060136211/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
-</a>
-<a href="mailto:kyrieeeee2@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
-<a href="https://yhao3.github.io/">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
-</a>
-
-<br />
-
 ### About Me
-I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everything around microservices architecture `🐳 Docker` and automation.
+
+Hi there 👋, I'm [Hao](https://github.com/yhao3/yhao3).
+
+I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem and everything around microservices architecture `🐳 Docker` and automation.
 <p align="left">
 
 </p>
@@ -30,11 +19,6 @@ I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem  and everythi
 <a href="https://www.microsoft.com/zh-tw/sql-server/sql-server-2019">![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?style=flat&logo=microsoftsqlserver)&nbsp;</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)&nbsp;</a>
 <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker)&nbsp;</a>
-
-### My Autobiography
-
-- [中文版](https://github.com/yhao3/autobiography/blob/main/chinese/autobiography.md)
-- [English](https://github.com/yhao3/autobiography/blob/main/english/autobiography.md)
 
 ---
 
