@@ -7,6 +7,10 @@ I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem and everythin
 
 </p>
 
+### 🚀 Check out my latest side project
+
+- [JTracker - The GitLab Issue Management Platform](https://jtracker.onrender.com/)
+
 ### Tech Stack
 <a href="https://www.java.com/">![Java](https://img.shields.io/badge/-Java-grey?style=flat&logo=openjdk)&nbsp;</a>
 <a href="https://spring.io/projects/spring-boot">![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-grey?style=flat&logo=springboot)&nbsp;</a>
