@@ -9,7 +9,7 @@ I'm currently in love with `☕ Java`  and `🍃 Spring` ecosystem and everythin
 
 ### 🚀 Check out my latest side project
 
-- [JTracker - The GitLab Issue Management Platform](https://jtracker.onrender.com/)
+- [**JTracker** - The GitLab Issue Management Platform](https://jtracker.onrender.com/)
 
 ---
 
